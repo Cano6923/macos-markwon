@@ -35,7 +35,7 @@ Para instalar y ejecutar Flutter, tu entorno de desarrollo debe cumplir estos re
 </li>
 </ul>
 
-<h2  align="center"  id="rosseta-software">Rosseta Software <img src="https://cdn.iconscout.com/icon/free/png-256/free-rubygems-283026.png?f=webp" alt="align" width="35" height=35" href="https://cdn.iconscout.com/icon/free/png-256/free-rubygems-283026.png?f=webp"/></h2>
+<h2  align="center "  id="rosseta-software">Rosseta Software <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-rubygems-283026.png?f=webp" alt="align" width="40" height="40" href="https://cdn.iconscout.com/icon/free/png-256/free-rubygems-283026.png?f=webp"/></h2>
 
 <p><strong>Rosetta</strong> es un traductor dinámico binario para Mac OS X que permite a muchas aplicaciones PowerPC correr en ciertas arquitecturas <a href="https://es.wikipedia.org/wiki/X86" title="X86">Intel</a> de las computadoras <a href="https://es.wikipedia.org/wiki/Macintosh" title="Macintosh">Macintosh</a></p>
 <pre class=" language-bash"><code class="prism  language-bash">softwareupdate --install-rosetta
@@ -347,5 +347,4 @@ Elija si desea importar la configuración anterior de Android Studio y, a contin
 Complete el asistente de configuración de Android Studio, que incluye la descarga de los componentes del SDK de Android necesarios para el desarrollo.<br>
 El siguiente vídeo muestra cada paso del procedimiento de configuración recomendado:</p>
 <p>A medida que estén disponibles nuevas herramientas y otras API, Android Studio le notificará mediante una ventana emergente. Para comprobar manualmente si hay actualizaciones, haga clic en Android Studio &gt; Buscar actualizaciones.</p>
-
 
